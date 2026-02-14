@@ -1,0 +1,16 @@
+HELP.md
+build/
+!**/src/main/**
+!**/src/test/**
+!*/icons8-pubg-50.png
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Gradle ###
+.gradle
+
+### Logs ###
+*.log
